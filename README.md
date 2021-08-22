@@ -1,1 +1,3 @@
 # Android-Inventory-App
+The respository contains the source code for an Android mobile application that contains an "inventory system" consisting of an SQLite database, multiple activies and intents, and a table layout system. In addition, the user is required to login using secure credentials or create an account if they do not already one. 
+The application was designed to be functional, efficient, and modular. The application was created from the perspective of "client needs first." The functional requirements were identified and the coding process revolved around implementing these functionalities. 
